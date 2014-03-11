@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Justin T Stanley]]></title>
-  <link href="http://justintstanley.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: website | Justin T Stanley]]></title>
+  <link href="http://justintstanley.com/blog/categories/website/atom.xml" rel="self"/>
   <link href="http://justintstanley.com/"/>
   <updated>2014-03-11T17:09:39-04:00</updated>
   <id>http://justintstanley.com/</id>
