@@ -4,7 +4,7 @@
   <title><![CDATA[Category: game design | Justin T Stanley]]></title>
   <link href="http://justintstanley.com/blog/categories/game-design/atom.xml" rel="self"/>
   <link href="http://justintstanley.com/"/>
-  <updated>2014-03-12T14:04:10-04:00</updated>
+  <updated>2014-03-12T14:06:39-04:00</updated>
   <id>http://justintstanley.com/</id>
   <author>
     <name><![CDATA[Justin Stanley]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Little Evils]]></title>
+    <link href="http://justintstanley.com/blog/2014/02/20/little-evils/"/>
+    <updated>2014-02-20T13:05:25-05:00</updated>
+    <id>http://justintstanley.com/blog/2014/02/20/little-evils</id>
+    <content type="html"><![CDATA[<p>Everybody loves free things.</p>
+
+<p>Television broadcast over the air is still the most watched, people listen to the radio, be it FM or Pandora, and people play free games with advertising. The cultural theorist Dallas Smythe argues that nothing is free. Instead audiences are packaged up by media providers and sold to advertisers. Given that he was theorizing about television in the early 1980s it is astonishing to see just how accurate he is about the workings of modern advertising.</p>
+
+<p>Some game developers have decided to eschew advertisements. Instead they make use of microtransactions. These can make the game easier, allow you to purchase bigger weapons, funny hats, or clicks of a cow. This can be great for gamers, they aren’t subjected to interstitial advertisements or banner ads that suck real estate from the game. League of Legends, a popular MMO strategy game supports itself through just such a method with astonishing success.</p>
+
+<p>And then there are games like EA’s re-release of Dungeon Keeper. The game itself is a wonderful update of the 1997 hit, the graphics are smoother and feel like they belong in this century. However, the game is a prime example of what not to do with microtransactions. It is technically playable without paying a cent, but it takes a full twenty four hours to accomplish what you could in the original game in roughly five minutes.</p>
+
+<p>Microtransactions in games usually take the advantage of the interest curve. After putting the player in a position where they have to struggle almost to the point of walking away, microtransactions make the game easier for a time, bringing the player back into the center channel of interest and spurring them on.</p>
+
+<p>Dungeon Keeper, on the other claw, is essentially broken as a game without spending money. The most disheartening thing of all is the legion of fans of the original series calling for a full game, sans microtransactions, for $9.99. I know that I could be tempted to purchase the full game for such a price.</p>
+
+<p>Instead EA is betting on microtransactions as the way of the future. Who wouldn’t want continuous revenue from a game instead of a develop, sell, develop cycle? I don’t object to the idea, I object to the current goldrush mentality behind shifting to microtransactions as a way to make money from a game. It can truly ruin the experience and that’s what it’s all about.</p>
+
+<p>For game designers, this is an important lesson. If you are lucky enough to develop a hit game, keep it playable and listen to your fans.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sweet Defiance]]></title>
