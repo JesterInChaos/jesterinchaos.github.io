@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Justin T Stanley]]></title>
-  <link href="http://justintstanley.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: inspiration | Justin T Stanley]]></title>
+  <link href="http://justintstanley.com/blog/categories/inspiration/atom.xml" rel="self"/>
   <link href="http://justintstanley.com/"/>
   <updated>2014-03-12T14:04:10-04:00</updated>
   <id>http://justintstanley.com/</id>
@@ -12,21 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Transitions]]></title>
-    <link href="http://justintstanley.com/blog/2014/03/11/transitions/"/>
-    <updated>2014-03-11T16:59:00-04:00</updated>
-    <id>http://justintstanley.com/blog/2014/03/11/transitions</id>
-    <content type="html"><![CDATA[<p>Tumblr wasn&rsquo;t cutting it. I graduate from Carnegie Mellon in May and, let&rsquo;s face it, I will need a job. I attended a career fair on campus and seemed to be unique in that I didn&rsquo;t have an easily accessible portfolio. Oh, I have things that I can show off, but most of my work has either been very academic or under the control of academia.</p>
-
-<p>I have been using my blog to post some short pieces for my game design course, which will now transition over to this blog, but I also intend to show off some of what I can do. Tumblr just isn’t the right outlet for that. I wanted to have more control, yet not pay a dime beyond my URL registration. That’s where the grad student ethos comes in to play.</p>
-
-<p>Instead of paying for a good tumblr theme (they do exist) or paying for hosting, I decided to switch things up. I am now hosting this site on GitHub and developing a small tool using Heroku. All for free. Sweet sweet internet, where would I be without you?</p>
-
-<p>I will transition my game design posts to a section on this (still under construction) site, but they aren’t up there yet. Fear not, that’s why the gods of academia invented spring break.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sweet Defiance]]></title>
