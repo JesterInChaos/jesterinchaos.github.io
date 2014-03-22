@@ -4,7 +4,7 @@
   <title><![CDATA[Category: website | Justin T Stanley]]></title>
   <link href="http://justintstanley.com/blog/categories/website/atom.xml" rel="self"/>
   <link href="http://justintstanley.com/"/>
-  <updated>2014-03-22T13:41:42-04:00</updated>
+  <updated>2014-03-22T13:42:52-04:00</updated>
   <id>http://justintstanley.com/</id>
   <author>
     <name><![CDATA[Justin Stanley]]></name>
@@ -20,9 +20,9 @@
     <id>http://justintstanley.com/blog/2014/03/18/habeas-corpus</id>
     <content type="html"><![CDATA[<p>&ldquo;The problem with big data is _____&rdquo;</p>
 
-<p>Fill in the blank. Everyone else is these days, it&rsquo;s nearly as fashionable as actually &lsquo;doing&rsquo; big data. I hate jumping on any bandwagon, but I feel the need to contribute to this particular conversation. I&rsquo;ve seen many amazing, and often pretty, data visulization tools, but a common mistake, one I think happens far too often. Data is awesome, but without expert context it isn&rsquo;t knowledge. Just having the data doesn&rsquo;t do you all that much good.</p>
+<p>Fill in the blank. Everyone else is these days, it&rsquo;s nearly as fashionable as actually &lsquo;doing&rsquo; big data. I hate jumping on any bandwagon, but I feel the need to contribute to this particular conversation. I&rsquo;ve seen many amazing, and often pretty, data visualization tools, but a common mistake, one I think happens far too often. Data is awesome, but without expert context it isn&rsquo;t knowledge. Just having the data doesn&rsquo;t do you all that much good.</p>
 
-<p>At Carnegie Mellon we have some incredible machine learning projects. The Never Ending Image Learner (<a href="http://www.neil-kb.com">http://www.neil-kb.com</a>) is an excellent example, warning, that&rsquo;s an addictive link. Then there&rsquo;s pretty much the entirety of the LTI (<a href="http://www.lti.cs.cmu.edu/research/projects.shtml">http://www.lti.cs.cmu.edu/research/projects.shtml</a>). The math behind those projects is nothing short of astonishing. And by astonishing I mean that I haven&rsquo;t a clue. Oh, I understand enough statstics to use factor analysis to find useful results out of a text based corpus, but I don&rsquo;t have the decade or two of computational math to really grasp the equations that they use.</p>
+<p>At Carnegie Mellon we have some incredible machine learning projects. The Never Ending Image Learner (<a href="http://www.neil-kb.com">http://www.neil-kb.com</a>) is an excellent example, warning, that&rsquo;s an addictive link. Then there&rsquo;s pretty much the entirety of the LTI (<a href="http://www.lti.cs.cmu.edu/research/projects.shtml">http://www.lti.cs.cmu.edu/research/projects.shtml</a>). The math behind those projects is nothing short of astonishing. And by astonishing I mean that I haven&rsquo;t a clue. Oh, I understand enough statistics to use factor analysis to find useful results out of a text based corpus, but I don&rsquo;t have the decade or two of computational math to really grasp the equations that they use.</p>
 
 <p>Instead I am focusing on augmented analytical reading. By using some of the big data analytic methods to clean up and balance a corpus and then highlight statistically interesting data for an expert in the field to read I believe that we can get far better results and far more knowledge. I&rsquo;m working on a project to do some of that for my portfolio. It&rsquo;s in the &ldquo;well, that sort of works&rdquo; phase and certainly isn&rsquo;t ready for me to point at and say &ldquo;look, cool stuff that I did&rdquo;, but it will get there.</p>
 ]]></content>

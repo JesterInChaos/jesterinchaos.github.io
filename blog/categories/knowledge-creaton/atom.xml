@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: portfolio | Justin T Stanley]]></title>
-  <link href="http://justintstanley.com/blog/categories/portfolio/atom.xml" rel="self"/>
+  <title><![CDATA[Category: knowledge creaton | Justin T Stanley]]></title>
+  <link href="http://justintstanley.com/blog/categories/knowledge-creaton/atom.xml" rel="self"/>
   <link href="http://justintstanley.com/"/>
   <updated>2014-03-22T13:42:52-04:00</updated>
   <id>http://justintstanley.com/</id>
@@ -25,21 +25,6 @@
 <p>At Carnegie Mellon we have some incredible machine learning projects. The Never Ending Image Learner (<a href="http://www.neil-kb.com">http://www.neil-kb.com</a>) is an excellent example, warning, that&rsquo;s an addictive link. Then there&rsquo;s pretty much the entirety of the LTI (<a href="http://www.lti.cs.cmu.edu/research/projects.shtml">http://www.lti.cs.cmu.edu/research/projects.shtml</a>). The math behind those projects is nothing short of astonishing. And by astonishing I mean that I haven&rsquo;t a clue. Oh, I understand enough statistics to use factor analysis to find useful results out of a text based corpus, but I don&rsquo;t have the decade or two of computational math to really grasp the equations that they use.</p>
 
 <p>Instead I am focusing on augmented analytical reading. By using some of the big data analytic methods to clean up and balance a corpus and then highlight statistically interesting data for an expert in the field to read I believe that we can get far better results and far more knowledge. I&rsquo;m working on a project to do some of that for my portfolio. It&rsquo;s in the &ldquo;well, that sort of works&rdquo; phase and certainly isn&rsquo;t ready for me to point at and say &ldquo;look, cool stuff that I did&rdquo;, but it will get there.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Transitions]]></title>
-    <link href="http://justintstanley.com/blog/2014/03/11/transitions/"/>
-    <updated>2014-03-11T16:59:00-04:00</updated>
-    <id>http://justintstanley.com/blog/2014/03/11/transitions</id>
-    <content type="html"><![CDATA[<p>Tumblr wasn&rsquo;t cutting it. I graduate from Carnegie Mellon in May and, let&rsquo;s face it, I will need a job. I attended a career fair on campus and seemed to be unique in that I didn&rsquo;t have an easily accessible portfolio. Oh, I have things that I can show off, but most of my work has either been very academic or under the control of academia.</p>
-
-<p>I have been using my blog to post some short pieces for my game design course, which will now transition over to this blog, but I also intend to show off some of what I can do. Tumblr just isn’t the right outlet for that. I wanted to have more control, yet not pay a dime beyond my URL registration. That’s where the grad student ethos comes in to play.</p>
-
-<p>Instead of paying for a good tumblr theme (they do exist) or paying for hosting, I decided to switch things up. I am now hosting this site on GitHub and developing a small tool using Heroku. All for free. Sweet sweet internet, where would I be without you?</p>
-
-<p>I will transition my game design posts to a section on this (still under construction) site, but they aren’t up there yet. Fear not, that’s why the gods of academia invented spring break.</p>
 ]]></content>
   </entry>
   
