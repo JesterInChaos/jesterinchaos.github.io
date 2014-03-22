@@ -4,7 +4,7 @@
   <title><![CDATA[Justin T Stanley]]></title>
   <link href="http://justintstanley.com/atom.xml" rel="self"/>
   <link href="http://justintstanley.com/"/>
-  <updated>2014-03-22T12:37:34-04:00</updated>
+  <updated>2014-03-22T12:38:59-04:00</updated>
   <id>http://justintstanley.com/</id>
   <author>
     <name><![CDATA[Justin Stanley]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Habeas Corpus]]></title>
-    <link href="http://justintstanley.com/blog/2014/03/12/habeas-corpus/"/>
-    <updated>2014-03-12T14:31:45-04:00</updated>
-    <id>http://justintstanley.com/blog/2014/03/12/habeas-corpus</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Transitions]]></title>
