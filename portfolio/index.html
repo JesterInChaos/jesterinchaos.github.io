@@ -9,7 +9,7 @@
 
 <meta name="author" content="Justin Stanley"> 
 
-<meta name="description" content="Right now I&rsquo;m working on a sentiment analysis tool to run against one of the larger social media sites. No, not Twitter. I will happily publish &hellip;"> <meta name="keywords" content="">
+<meta name="description" content="Right now I&rsquo;m working on a sentiment analysis tool to run against multiple social media sites, not just Twitter. I will happily publish the &hellip;"> <meta name="keywords" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -95,10 +95,13 @@ $(document).ready(
 </header>
 
 	<div id="content" class="inner"><article class="page">
-    <div class="entry-content"><p>Right now I&rsquo;m working on a sentiment analysis tool to run against one of the larger social media sites. No, not Twitter. I will happily publish the results here, but it’s a work in progress.</p>
+    <div class="entry-content"><p>Right now I&rsquo;m working on a sentiment analysis tool to run against multiple social media sites, not just Twitter. I will happily publish the results here, but it’s a work in progress.</p>
 
-<p>Stage One of my sentiment analysis tool &ndash;
-I currently have a nifty little bot that creates a corpus from Reddit. I&rsquo;m creating a GUI&rsquo;d version for people who don&rsquo;t particularly want to run things via the command line or terminal.</p>
+<p>I&rsquo;m releasing a little gui&rsquo;d version of part of the corpus compiler portion of my sentiment analysis engine. It isn&rsquo;t particularly pretty, I&rsquo;m just now picking up WX, but it does create nifty little CSV corpera from every hot submission in whatever subreddit you give it.</p>
+
+<p>Right now you need to have Python 2.7 installed, as well as the modules wx and praw. For those of you who don&rsquo;t know what that means, don&rsquo;t worry. I am working on self contained executables, but there are a few requirements that are making it difficult. Haven&rsquo;t found anyone who has solved the problem yet, so I&rsquo;m having to create my own hooks.</p>
+
+<p>It is avaliable at <a href="https://github.com/JesterInChaos/EasyCorpusCompiler">https://github.com/JesterInChaos/EasyCorpusCompiler</a></p>
 </div>
 </article>
 
