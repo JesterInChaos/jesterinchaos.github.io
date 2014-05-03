@@ -1,0 +1,206 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<script data-cfasync="false" type="text/javascript" src="//use.typekit.net/axj3cfp.js"></script>
+	<script data-cfasync="false" type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<meta charset="utf-8">
+	<title>Don't Read The Comments  | Justin T Stanley</title>
+
+<meta name="author" content="Justin Stanley"> 
+
+<meta name="description" content="Conventional internet wisdom suggests not reading the comments on any given website. A recent paper entitled “Coproduction or cohabitation: Are &hellip;"> <meta name="keywords" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="Justin T Stanley" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/javascripts/jquery.fancybox.pack.js"></script>
+
+<script language="Javascript" type="text/javascript">
+$(document).ready(
+  function() {
+    (function($) {
+      $(".fancybox[data-content-id]").each(function() {
+        this.href = $(this).data('content-id');
+      });
+      $(".fancybox").fancybox({
+        beforeLoad: function() {
+          var el, 
+              id = $(this.element).data('title-id');
+
+          if (id) {
+            el = $('#' + id);
+
+            if (el.length) {
+              this.title = el.html();
+            }
+          }
+          if ($(this).data('content')) {
+            this.content = $(this).data('content');
+          }
+        },
+        helpers: {
+          title: {
+            type: 'inside'
+          }
+        }
+      });
+    })(jQuery);
+  }
+);
+</script>
+
+	
+</head>
+
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">Justin T Stanley</a></h1>
+<h4>Digital Storytelling, New Media, Textual Analysis</h4>
+<nav id="main-nav"><ul>
+	<li><a href="/">Blog</a></li>
+	<li><a href="/about">About</a></li>
+	<li><a href="/portfolio">Portfolio</a></li>
+	<li><a href="/archives">Archive</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul>
+	<li><a href="/">Blog</a></li>
+	<li><a href="/about">About</a></li>
+	<li><a href="/portfolio">Portfolio</a></li>
+	<li><a href="/archives">Archive</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="https://www.google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:justintstanley.com">
+			</form>
+		</div>
+	</div>
+</nav>
+
+
+</header>
+
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">Don't Read the Comments</h2>
+	<div class="entry-content"><p>Conventional internet wisdom suggests not reading the comments on any given website. A recent paper entitled “Coproduction or cohabitation: Are anonymous online comments on newspaper websites shaping news content?”, published in the journal New Media &amp; Society, found that journalists don’t read the comments on their articles because they don’t find them worth it. What is far more interesting is that more than half of the journalists (53%) said that comments sometimes showed them a new perspective, but that happens infrequently enough to render sorting through the comments worthless.</p>
+
+<p>I agree that COMENTS WRITTEN IN ALL CAPS ADN INCORRECTLY SPELED; WITH HUGE GRAMMER ERRORS don’t add much to any given conversation. Neither does screaming at the top of one’s lungs while slapping people in the face. Clearly, not all comments are equal. On the other hand, comments are big business. Big data business. Yes, I went there and did that, you saw it.</p>
+
+<p>reddit.com, which some of you may be familiar with, is one such business. Last month (April 2014) reddit had 104,744,040 unique visitors with five billion page views. Not exactly small potatoes. Disqus, the company that created and maintains the largest commenting platform, sees similar numbers with nearly six billion page views a month. Clearly a few people are ignoring the conventional internet wisdom.</p>
+
+<p>Reddit and Disqus both allow registered users to up and down vote comments. The comment areas can also be sorted several ways, but default to best, as defined by the respective company. So then, are the comments that are the best the ones worth reading?</p>
+
+<p>Ah, if it were only that simple. Substantive comments do exist, but don’t always seem to be the highest rated. Often, and citation needed here, the highest rated comments are shorter rebuttals of a position or humorous in nature. I’ve decided to investigate the nature of comments, at least the ones on Reddit.</p>
+
+<p>Reddit has a nice API and Python has an even nicer API wrapper, PRAW (python reddit api wrapper). I have built several scripts around this library to help me compile a decent sized corpus. I’m looking at three groupings of comments from reddit, 50-149 words in length, 150-249 words, and 250+. I’ve already got some interesting results on common rhetoric strategies used in positively rated comments from the larger groupings, the shorter comments are more difficult to pin down.</p>
+
+<p>The longer comments that I’ve evaluated through a tagging program and some multivariate factor analysis (more on this later) do seem to actually be substantive additions to their discussions. Admittedly, my software did have to troll through 31k comments to find less than two hundred 250+ word positively rated comments, but they were out there.</p>
+
+<p>I’m working on a paper on this subject, which I will put up here after getting some feedback from a statistician et al, but for now I will just say that maybe the journalists and the rest of the world are just reading the wrong comments. If I can build a model, post paper, of useful comments then maybe I can help people find the right ones to read.</p>
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-05-03T13:22:49-04:00" pubdate data-updated="true">May 3<span>rd</span>, 2014</time></div>
+	
+
+
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+<!---	<a class="addthis_counter addthis_pill_style"></a> --->
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+
+<section id="comment">
+    <h2 class="title">Comments</h2>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2014
+
+    Justin Stanley
+
+<br>
+Powered by Octopress.
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'justintstanley';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://justintstanley.com/blog/2014/05/03/dont-read-the-comments/';
+        var disqus_url = 'http://justintstanley.com/blog/2014/05/03/dont-read-the-comments/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-44193731-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+
+</body>
+</html>
