@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: projects,ECC | Justin T Stanley]]></title>
+  <link href="http://justintstanley.com/blog/categories/projects-ecc/atom.xml" rel="self"/>
+  <link href="http://justintstanley.com/"/>
+  <updated>2014-10-23T17:44:44-04:00</updated>
+  <id>http://justintstanley.com/</id>
+  <author>
+    <name><![CDATA[Justin Stanley]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Indroducing the ECC]]></title>
+    <link href="http://justintstanley.com/blog/2014/10/22/indroducing-the-ecc/"/>
+    <updated>2014-10-22T17:23:57-04:00</updated>
+    <id>http://justintstanley.com/blog/2014/10/22/indroducing-the-ecc</id>
+    <content type="html"><![CDATA[<p>The last few months I&rsquo;ve been tinkering with a little program to make studying social media a bit more accessible to those unable or unwilling to write their own scripts to compile corpera. Enter the ECC or Easy Corpus Compiler for those not into the whole brevity thing. It&rsquo;s a swiss army toolkit for building text corpera for analysis. Currently it is being alpha tested by a class at my alma mater. If you&rsquo;re python savvy and have 2.7 installed on your system you can grab everything you need at <a href="https://dl.dropboxusercontent.com/u/416649/ECC.zip.">https://dl.dropboxusercontent.com/u/416649/ECC.zip.</a> If not, I&rsquo;ve got a portable version that works on just about any Windows machine and an installer to automatically grab the dependencies for Macs that I will post in the next day or so. Instructions for running the thing are currently being written as I get feedback from my alpha users on what works for them and what doesn&rsquo;t.</p>
+
+<p>Overall I&rsquo;m pleased with how this is shaping up. It has been great refamiliarizing myself with the APIs of various social media sites and putting together something for non coders in the humanities. I believe that the future of the humanities is digital and I want to help as many as possible fellow humanities scholars make the transition.</p>
+]]></content>
+  </entry>
+  
+</feed>
